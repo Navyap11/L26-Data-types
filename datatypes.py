@@ -10,3 +10,4 @@ print ("the data type for c is: ",type(c))
 d= "Navya"
 print ("the data type for d is: ",type(d))
 
+
